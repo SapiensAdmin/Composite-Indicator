@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node / Next.js
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+.vercel/
+
+# OS / editor
+.DS_Store
+*.log
+
+# ETL recon scratch (kept out of the repo)
+etl/*.tmp
+scratch/

@@ -1,0 +1,4642 @@
+[
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 60194.32
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 39732.38
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 25247.94
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 24493.62
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 16467.43
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 16302.06
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 14543.13
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 10179.3
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10157.09
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "UTI - Mid Cap Fund",
+    "amc": "UTI",
+    "aum": 10046.23
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 46029.84
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 28597.05
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 25533.78
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 19604.03
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 17232.82
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 14189.48
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 13743.91
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 13702.68
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11825.26
+  },
+  {
+    "as_of_date": "2024-02-29",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 9586.3
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 60418.7
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 39684.85
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 25536.4
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 24796.0
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 16856.01
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 15968.66
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 14251.88
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10119.09
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 10108.06
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "PGIM India Midcap Opportunities Fund",
+    "amc": "PGIM India",
+    "aum": 9923.65
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 45248.33
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 27573.21
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 25434.98
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 19029.0
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 17382.89
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 13881.69
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 13401.24
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 13038.77
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11539.64
+  },
+  {
+    "as_of_date": "2024-03-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 9401.09
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 63409.32
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 42681.75
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 26831.75
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 26636.25
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 17915.3
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17069.64
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 15138.83
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 10704.73
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10529.41
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "UTI - Mid Cap Fund",
+    "amc": "UTI",
+    "aum": 10470.88
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 50413.43
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 29681.91
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 27769.33
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 20194.32
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 20137.28
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 14808.54
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 14611.2
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 14069.5
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12585.21
+  },
+  {
+    "as_of_date": "2024-04-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 10084.56
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 65399.97
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 45016.35
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 27946.07
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 27740.88
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 18402.33
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17663.34
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 15355.19
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11009.26
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10815.12
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "UTI - Mid Cap Fund",
+    "amc": "UTI",
+    "aum": 10676.08
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 51550.68
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 29177.22
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 28364.95
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 21279.82
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 20497.09
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 15276.6
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 14787.92
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 13775.15
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12794.62
+  },
+  {
+    "as_of_date": "2024-05-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 10428.0
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 70573.86
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 48930.95
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 30841.28
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30145.12
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 20315.48
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19137.15
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16669.08
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 12628.49
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12012.65
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 11821.73
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 56471.68
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 31523.92
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 30835.46
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 22927.05
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 22263.22
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 16710.76
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16396.8
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 15244.73
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14022.18
+  },
+  {
+    "as_of_date": "2024-06-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 11498.66
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 75387.23
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 50503.47
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 32981.92
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30846.14
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21125.58
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19990.49
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17452.28
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 14487.4
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12527.94
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12410.81
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 60355.52
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33173.54
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 32751.27
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 24535.93
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23395.04
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17494.95
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16903.52
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16082.3
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14472.61
+  },
+  {
+    "as_of_date": "2024-07-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12024.92
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 75298.33
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 51266.72
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 33707.89
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31322.48
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21516.89
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 20069.36
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17561.48
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 15940.08
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12744.81
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12662.94
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 61001.4
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33895.0
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 33068.53
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 25540.1
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23772.05
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17639.28
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16983.44
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16572.22
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14420.66
+  },
+  {
+    "as_of_date": "2024-08-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12248.98
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 77690.36
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 52535.17
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 35235.74
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 32001.93
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 22346.73
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 20233.02
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 18728.75
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17775.1
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12940.57
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "UTI - Mid Cap Fund",
+    "amc": "UTI",
+    "aum": 12706.63
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 62274.57
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 34229.11
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33934.5
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 26685.33
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 24754.5
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 18286.01
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 17304.82
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16700.33
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14457.22
+  },
+  {
+    "as_of_date": "2024-09-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12592.05
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 75056.18
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 50537.32
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 33935.13
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30008.58
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21412.47
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 20122.98
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19015.54
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16579.03
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12317.68
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12299.22
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 61025.33
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33507.0
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 33105.04
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "Quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 26330.82
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23955.83
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17596.68
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16921.36
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16147.99
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13944.44
+  },
+  {
+    "as_of_date": "2024-10-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12324.26
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 76063.12
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 51948.21
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 34584.88
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30331.03
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 22898.19
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21454.94
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19216.44
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16696.04
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12440.78
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12123.79
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 61647.82
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33842.85
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 33285.18
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 27170.51
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 24352.97
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17733.29
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 17237.94
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16307.73
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14045.27
+  },
+  {
+    "as_of_date": "2024-11-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12451.03
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 77985.37
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 52984.99
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 35290.54
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30826.99
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 26515.77
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21818.92
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19292.65
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16695.02
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12570.74
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "HSBC Mid Cap Fund",
+    "amc": "HSBC",
+    "aum": 12417.19
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 61967.47
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33896.6
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 33490.63
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 26657.9
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 24759.55
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17778.88
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 17387.38
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16634.99
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14069.1
+  },
+  {
+    "as_of_date": "2024-12-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12543.16
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 73557.45
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 49001.53
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 33051.11
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 28376.9
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 24538.82
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21177.69
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17760.99
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 15458.95
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11656.38
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 11585.35
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 57005.72
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 31234.22
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 31221.76
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 25190.43
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23142.75
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 16452.04
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 15454.2
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 15001.67
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12860.87
+  },
+  {
+    "as_of_date": "2025-01-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 11525.96
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 67599.23
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 43854.31
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 30293.29
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 26078.97
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 23743.51
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 19395.51
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 15881.9
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 13828.84
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 10593.87
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10397.0
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 50851.01
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 28477.04
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 28129.34
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 22828.91
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 20958.08
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 14408.21
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 13336.79
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 13281.59
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11258.59
+  },
+  {
+    "as_of_date": "2025-02-28",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 10272.59
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 72610.72
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 48022.69
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 33174.74
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 28063.17
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 26028.34
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 20890.26
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17203.61
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 14921.59
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11443.03
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 10878.83
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 53988.27
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 30223.79
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 30074.36
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 24904.93
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 22736.11
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 15706.48
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 14493.33
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 14269.13
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11969.61
+  },
+  {
+    "as_of_date": "2025-03-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 11085.98
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 74897.33
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 49531.71
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 34684.7
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 28798.22
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 27776.7
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 21505.88
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17653.12
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 15409.92
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11758.93
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 11634.06
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 58007.34
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 31040.76
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 30870.81
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 26205.89
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23310.88
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 15864.91
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 14733.42
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 14253.94
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12524.39
+  },
+  {
+    "as_of_date": "2025-04-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 11468.49
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc": "HDFC",
+    "aum": 79719.45
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 53358.42
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Fund",
+    "amc": "Nippon India",
+    "aum": 36837.34
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30501.47
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 30401.1
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MAGNUM MIDCAP FUND",
+    "amc": "SBI",
+    "aum": 22406.12
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 18712.17
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16337.07
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12291.28
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Prima Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12285.17
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 63008.3
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 34036.13
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 34028.06
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 28202.0
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 25062.3
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17329.73
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16305.32
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16061.79
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Smaller Companies Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13544.8
+  },
+  {
+    "as_of_date": "2025-05-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 12365.96
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 84082.98
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 57014.82
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 39086.27
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 33103.77
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 32064.74
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 23267.1
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19558.72
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17159.75
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Mid Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12811.56
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12560.57
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 66624.73
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 35786.89
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 35712.43
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 29622.05
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 26383.38
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 18032.37
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 17126.8
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16907.72
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13995.31
+  },
+  {
+    "as_of_date": "2025-06-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Canara Robeco Small Cap Fund",
+    "amc": "Canara Robeco",
+    "aum": 13102.39
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 83880.0
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 57286.27
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 38592.96
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 33633.38
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31379.51
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 22546.7
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19329.02
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16995.93
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12540.84
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Mid Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12539.68
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 65911.42
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 36399.24
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 35553.48
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 29458.0
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 26140.5
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17902.21
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 17005.96
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16533.83
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 14099.11
+  },
+  {
+    "as_of_date": "2025-07-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13824.58
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 83108.87
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 56883.01
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 38388.68
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 34781.55
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31056.07
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 22011.56
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19038.27
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16773.37
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12447.64
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Mid Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12251.68
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 64824.33
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 36295.3
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 35245.02
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 28755.57
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 25569.23
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17509.61
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16628.61
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 15886.91
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 14561.87
+  },
+  {
+    "as_of_date": "2025-08-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13302.84
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 84877.97
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 58207.16
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 39344.72
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 34776.89
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31144.9
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 22219.52
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19160.96
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17159.17
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12431.92
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Mid Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12212.83
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 66130.25
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 36845.28
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 35601.99
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 29281.37
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 25977.24
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17479.33
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16497.9
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16040.64
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 15777.07
+  },
+  {
+    "as_of_date": "2025-09-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13265.87
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 89399.78
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 60302.55
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 41281.87
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 37514.45
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 32064.65
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 23030.56
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19603.64
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 18066.5
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 13181.26
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Mid Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12768.62
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 68954.43
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 38422.38
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 36932.72
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 30494.27
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 27063.34
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 18020.96
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 17415.88
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16866.83
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16545.15
+  },
+  {
+    "as_of_date": "2025-10-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13787.95
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 92175.29
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 60372.9
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 42044.79
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 38004.09
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 32202.28
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI MidCap Fund",
+    "amc": "SBI",
+    "aum": 23359.59
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19856.48
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 18345.49
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 13211.78
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 13040.68
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 68575.8
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 38021.89
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 36271.97
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 30166.35
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 26769.77
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 18173.97
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17424.25
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 17011.08
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16204.03
+  },
+  {
+    "as_of_date": "2025-11-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13529.99
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 92661.81
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 60529.24
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 42131.32
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 36876.64
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31711.29
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 23308.22
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19581.38
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 18313.29
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 13659.35
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 13237.41
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 68268.39
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 37756.36
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 36253.51
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 29765.21
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 26542.4
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 19008.92
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17250.34
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16931.82
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 15965.87
+  },
+  {
+    "as_of_date": "2025-12-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13236.27
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 92188.97
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 58931.44
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 41728.87
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 34432.59
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 30895.0
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 22424.17
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19047.62
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17563.29
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 13802.16
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 12862.04
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 65813.81
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 36942.1
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 34449.23
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 27355.55
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 25517.2
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 19266.44
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 16368.3
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16135.9
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 15029.0
+  },
+  {
+    "as_of_date": "2026-01-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12762.06
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 94262.82
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 61584.21
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 43984.07
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 33689.9
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31677.21
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 23154.24
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19641.69
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 17974.12
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 14355.67
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 13180.03
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 67643.2
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 37426.03
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 34931.72
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 27649.0
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 26007.19
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 20473.93
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 16886.26
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 16871.22
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 15375.46
+  },
+  {
+    "as_of_date": "2026-02-28",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 12934.7
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 85359.08
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 55563.64
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 39676.13
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 31046.66
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 28533.02
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 20576.48
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 17491.92
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 16146.69
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 13553.94
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "Sundaram Mid Cap Fund",
+    "amc": "Sundaram",
+    "aum": 11641.76
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 61808.86
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 33725.26
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 32285.44
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 25806.19
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 23918.59
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 20129.57
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 15300.48
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 15157.51
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 13881.8
+  },
+  {
+    "as_of_date": "2026-03-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 11724.35
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 94793.67
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 63443.51
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 45864.45
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 35738.05
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 31975.02
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 23252.77
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19458.07
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 18345.34
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 15810.76
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "HSBC Midcap Fund",
+    "amc": "HSBC",
+    "aum": 13402.5
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 72663.98
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 38205.03
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI Small Cap Fund",
+    "amc": "SBI",
+    "aum": 37150.56
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 30373.08
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 27365.33
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 25417.37
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 17911.04
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17416.3
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16392.14
+  },
+  {
+    "as_of_date": "2026-04-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13849.93
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 97354.63
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 64638.79
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 47418.58
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 36460.1
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 32549.03
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 23416.76
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 19674.96
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 18956.21
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 16868.91
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "HSBC Midcap Fund",
+    "amc": "HSBC",
+    "aum": 14251.23
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 74608.07
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 38811.42
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 37394.66
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 31763.33
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 27840.13
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 27219.05
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 18359.73
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 17807.11
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 16877.84
+  },
+  {
+    "as_of_date": "2026-05-31",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 13845.89
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 1,
+    "scheme_name": "HDFC Mid Cap Fund",
+    "amc": "HDFC",
+    "aum": 100888.93
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 2,
+    "scheme_name": "Kotak Midcap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 67514.47
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 3,
+    "scheme_name": "Nippon India Growth Mid Cap Fund",
+    "amc": "Nippon India",
+    "aum": 49202.45
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 4,
+    "scheme_name": "Motilal Oswal Midcap Fund",
+    "amc": "Motilal Oswal",
+    "aum": 37460.44
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 5,
+    "scheme_name": "Axis Midcap Fund",
+    "amc": "Axis",
+    "aum": 33493.54
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 6,
+    "scheme_name": "SBI Midcap Fund",
+    "amc": "SBI",
+    "aum": 24128.74
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 7,
+    "scheme_name": "DSP Midcap Fund",
+    "amc": "DSP",
+    "aum": 20169.83
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 8,
+    "scheme_name": "Mirae Asset Midcap Fund",
+    "amc": "Mirae Asset",
+    "aum": 19496.11
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 9,
+    "scheme_name": "Edelweiss Mid Cap Fund",
+    "amc": "Edelweiss",
+    "aum": 17769.31
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "midcap",
+    "rank": 10,
+    "scheme_name": "HSBC Midcap Fund",
+    "amc": "HSBC",
+    "aum": 15368.77
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 1,
+    "scheme_name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "aum": 78400.06
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 2,
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc": "HDFC",
+    "aum": 40427.5
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 3,
+    "scheme_name": "SBI SMALL CAP FUND",
+    "amc": "SBI",
+    "aum": 40165.16
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 4,
+    "scheme_name": "quant Small Cap Fund",
+    "amc": "quant",
+    "aum": 33734.51
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 5,
+    "scheme_name": "Axis Small Cap Fund",
+    "amc": "Axis",
+    "aum": 29395.64
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 6,
+    "scheme_name": "BANDHAN Small Cap Fund",
+    "amc": "Bandhan",
+    "aum": 28531.93
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 7,
+    "scheme_name": "DSP Small Cap Fund",
+    "amc": "DSP",
+    "aum": 19642.62
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 8,
+    "scheme_name": "Kotak Small Cap Fund",
+    "amc": "Kotak Mahindra",
+    "aum": 18688.99
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 9,
+    "scheme_name": "HSBC Small Cap Fund",
+    "amc": "HSBC",
+    "aum": 17829.7
+  },
+  {
+    "as_of_date": "2026-06-30",
+    "category": "smallcap",
+    "rank": 10,
+    "scheme_name": "Franklin India Small Cap Fund",
+    "amc": "Franklin Templeton",
+    "aum": 14336.26
+  }
+]

@@ -1,0 +1,51 @@
+name: Monthly AMFI ETL
+
+# AMFI publishes around the 15th (covering the prior month-end). We run on the
+# 16th (UTC) to pick up the fresh disclosure, plus manual dispatch on demand.
+on:
+  schedule:
+    - cron: '0 6 16 * *'   # 06:00 UTC on the 16th of each month
+  workflow_dispatch: {}
+
+permissions:
+  contents: write           # needed to commit refreshed data back
+
+concurrency:
+  group: monthly-etl
+  cancel-in-progress: false
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: etl/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r etl/requirements.txt
+
+      # The JSON API is the default engine and needs no browser. Playwright is only
+      # a fallback; uncomment if AMFI ever removes the JSON endpoint.
+      # - name: Install Playwright browser
+      #   run: python -m playwright install --with-deps chromium
+
+      - name: Run ETL (fetch -> excel -> composite -> json)
+        run: python etl/run_all.py
+
+      - name: Run composite tests
+        run: cd etl && python -m pytest test_composite.py -q
+
+      - name: Commit refreshed data (if changed)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: monthly AMFI refresh'
+          file_pattern: 'data/liquidity_composite.xlsx web/public/data/*.json'
+          commit_user_name: 'amfi-etl-bot'
+          commit_user_email: 'actions@github.com'

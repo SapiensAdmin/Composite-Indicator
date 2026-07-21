@@ -1,0 +1,152 @@
+{
+  "months": [
+    "2026-05-31",
+    "2026-06-30"
+  ],
+  "categories": {
+    "midcap": [
+      {
+        "scheme_name": "HDFC Mid Cap Fund",
+        "amc": "HDFC",
+        "aum": 100888.93,
+        "2026-05-31": 34.0,
+        "2026-06-30": 34.0
+      },
+      {
+        "scheme_name": "Kotak Midcap Fund",
+        "amc": "Kotak Mahindra",
+        "aum": 67514.47,
+        "2026-05-31": 26.0,
+        "2026-06-30": 27.0
+      },
+      {
+        "scheme_name": "Nippon India Growth Mid Cap Fund",
+        "amc": "Nippon India",
+        "aum": 49202.45,
+        "2026-05-31": 9.0,
+        "2026-06-30": 10.0
+      },
+      {
+        "scheme_name": "Motilal Oswal Midcap Fund",
+        "amc": "Motilal Oswal",
+        "aum": 37460.44,
+        "2026-05-31": 12.0,
+        "2026-06-30": 14.0
+      },
+      {
+        "scheme_name": "Axis Midcap Fund",
+        "amc": "Axis",
+        "aum": 33493.54,
+        "2026-05-31": 7.0,
+        "2026-06-30": 7.0
+      },
+      {
+        "scheme_name": "SBI Midcap Fund",
+        "amc": "SBI",
+        "aum": 24128.74,
+        "2026-05-31": 17.0,
+        "2026-06-30": 13.0
+      },
+      {
+        "scheme_name": "DSP Midcap Fund",
+        "amc": "DSP",
+        "aum": 20169.83,
+        "2026-05-31": 7.0,
+        "2026-06-30": 7.0
+      },
+      {
+        "scheme_name": "Mirae Asset Midcap Fund",
+        "amc": "Mirae Asset",
+        "aum": 19496.11,
+        "2026-05-31": 8.0,
+        "2026-06-30": 7.0
+      },
+      {
+        "scheme_name": "Edelweiss Mid Cap Fund",
+        "amc": "Edelweiss",
+        "aum": 17769.31,
+        "2026-05-31": 4.0,
+        "2026-06-30": 4.0
+      },
+      {
+        "scheme_name": "HSBC Midcap Fund",
+        "amc": "HSBC",
+        "aum": 15368.77,
+        "2026-05-31": 4.0,
+        "2026-06-30": 4.0
+      }
+    ],
+    "smallcap": [
+      {
+        "scheme_name": "Nippon India Small Cap Fund",
+        "amc": "Nippon India",
+        "aum": 78400.06,
+        "2026-05-31": 29.0,
+        "2026-06-30": 26.0
+      },
+      {
+        "scheme_name": "HDFC Small Cap Fund",
+        "amc": "HDFC",
+        "aum": 40427.5,
+        "2026-05-31": 54.0,
+        "2026-06-30": 46.0
+      },
+      {
+        "scheme_name": "SBI SMALL CAP FUND",
+        "amc": "SBI",
+        "aum": 40165.16,
+        "2026-05-31": 59.0,
+        "2026-06-30": 48.0
+      },
+      {
+        "scheme_name": "quant Small Cap Fund",
+        "amc": "quant",
+        "aum": 33734.51,
+        "2026-05-31": 54.0,
+        "2026-06-30": 45.0
+      },
+      {
+        "scheme_name": "Axis Small Cap Fund",
+        "amc": "Axis",
+        "aum": 29395.64,
+        "2026-05-31": 18.0,
+        "2026-06-30": 16.0
+      },
+      {
+        "scheme_name": "BANDHAN Small Cap Fund",
+        "amc": "Bandhan",
+        "aum": 28531.93,
+        "2026-05-31": 17.0,
+        "2026-06-30": 21.0
+      },
+      {
+        "scheme_name": "DSP Small Cap Fund",
+        "amc": "DSP",
+        "aum": 19642.62,
+        "2026-05-31": 37.0,
+        "2026-06-30": 32.0
+      },
+      {
+        "scheme_name": "Kotak Small Cap Fund",
+        "amc": "Kotak Mahindra",
+        "aum": 18688.99,
+        "2026-05-31": 29.0,
+        "2026-06-30": 27.0
+      },
+      {
+        "scheme_name": "HSBC Small Cap Fund",
+        "amc": "HSBC",
+        "aum": 17829.7,
+        "2026-05-31": 10.0,
+        "2026-06-30": 8.0
+      },
+      {
+        "scheme_name": "Franklin India Small Cap Fund",
+        "amc": "Franklin Templeton",
+        "aum": 14336.26,
+        "2026-05-31": 12.0,
+        "2026-06-30": 11.0
+      }
+    ]
+  }
+}
