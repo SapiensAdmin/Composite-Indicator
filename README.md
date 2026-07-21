@@ -1,5 +1,8 @@
 # AMFI Liquidity-Stress Composite
 
+**▶ Live dashboard — <https://compositeindicator.vercel.app/>** &nbsp;
+[![Live on Vercel](https://img.shields.io/badge/Vercel-live-000000?logo=vercel&logoColor=white)](https://compositeindicator.vercel.app/)
+
 A small, self-contained data product that turns AMFI's monthly **mid-cap & small-cap
 stress-test / liquidity disclosures** into a **custom, registry-weighted composite
 indicator**, stored in one extensible Excel workbook and served as a Next.js
@@ -10,6 +13,11 @@ Actions cron.
 > the month, covering the prior month-end). The composite describes the *backdrop*.
 
 ## 🚀 Deploy to Vercel (from this repo)
+
+**✅ Already live:** <https://compositeindicator.vercel.app/> — every push to `main`
+(including the monthly cron's data refresh) auto-redeploys via Vercel's Git integration.
+
+To spin up your own copy:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/SapiensAdmin/Composite-Indicator&project-name=composite-indicator&root-directory=web&framework=nextjs)
 
