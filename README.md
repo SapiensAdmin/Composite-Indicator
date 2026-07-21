@@ -9,6 +9,17 @@ Actions cron.
 > **Regime gauge, not a trade trigger.** AMFI data is disclosed with a lag (~15th of
 > the month, covering the prior month-end). The composite describes the *backdrop*.
 
+## 🚀 Deploy to Vercel (from this repo)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/SapiensAdmin/Composite-Indicator&project-name=composite-indicator&root-directory=web&framework=nextjs)
+
+**One click:** the button opens Vercel's import flow for this repo with **Root Directory = `web`**
+and **Framework = Next.js** pre-filled. Authorize GitHub → Deploy → you get a live
+`https://<project>.vercel.app` link. After that, every push to `main` (including the
+monthly cron's data refresh) auto-redeploys — the deployment is fully driven from Git.
+
+_Manual fallback:_ <https://vercel.com/new> → pick **Composite-Indicator** → set Root Directory to `web` → Deploy.
+
 ---
 
 ## 1. Data source (resolved during recon)
