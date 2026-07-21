@@ -50,7 +50,7 @@ export default function Home() {
       {data && (
         <>
           <div className="grid two">
-            <CompositeChart dates={data.composite.dates} composite={data.composite.composite} />
+            <CompositeChart composite={data.composite} />
             <WeightingPanel composite={data.composite} />
           </div>
 
