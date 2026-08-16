@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:54:25+00:00",
+  "generated_at": "2026-08-16T06:21:56+00:00",
   "source": "AMFI \u2014 Disclosure of Stress Test & Liquidity Analysis (Mid & Small Cap)",
   "source_url": "https://www.amfiindia.com/risk-parameters",
   "api_endpoint": "https://www.amfiindia.com/api/risk-parameter-data-revised?strCatId=<17|18>&date=<01-Mon-YYYY>",
@@ -32,10 +32,11 @@
     "2026-03-31",
     "2026-04-30",
     "2026-05-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-07-31"
   ],
   "first_month": "2024-02-29",
-  "latest_month": "2026-06-30",
+  "latest_month": "2026-07-31",
   "categories_present": [
     "midcap",
     "smallcap"
