@@ -147,6 +147,11 @@
   {
     "as_of_date": "2026-07-31",
     "midcap": 13.4,
-    "smallcap": 27.6
+    "smallcap": 27.8
+  },
+  {
+    "as_of_date": "2026-08-31",
+    "midcap": 14.2,
+    "smallcap": 27.2
   }
 ]
