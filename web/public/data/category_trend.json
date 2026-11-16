@@ -151,7 +151,17 @@
   },
   {
     "as_of_date": "2026-08-31",
-    "midcap": 14.2,
+    "midcap": 14.1,
     "smallcap": 27.2
+  },
+  {
+    "as_of_date": "2026-09-30",
+    "midcap": 16.1,
+    "smallcap": 29.6
+  },
+  {
+    "as_of_date": "2026-10-31",
+    "midcap": 15.8,
+    "smallcap": 30.4
   }
 ]
